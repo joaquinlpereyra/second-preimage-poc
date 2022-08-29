@@ -1,0 +1,239 @@
+[20:33:21.661] Global cache location '/home/joaquin/.cache/typescript/4.7', safe file path '/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/typingSafeList.json', types map path /home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/typesMap.json
+[20:33:21.662] Processing cache location '/home/joaquin/.cache/typescript/4.7'
+[20:33:21.662] Trying to find '/home/joaquin/.cache/typescript/4.7/package.json'...
+[20:33:21.663] Loaded content of '/home/joaquin/.cache/typescript/4.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.607"},"devDependencies":{"@types/argparse":"^2.0.10","@types/assert":"^1.5.6","@types/babel__code-frame":"^7.0.3","@types/babel__core":"^7.1.19","@types/babel__generator":"^7.6.4","@types/babel__helper-plugin-utils":"^7.10.0","@types/babel__helper-validator-identifier":"^7.15.0","@types/babel__preset-env":"^7.9.2","@types/babel__template":"^7.4.1","@types/babel__traverse":"^7.17.1","@types/balanced-match":"^1.0.2","@types/belter":"^1.0.0","@types/bindings":"^1.5.1","@types/bitcoin-computer-bitcore":"^0.1.0","@types/bloom-filter":"^0.2.1","@types/bluebird":"^3.5.36","@types/bn.js":"^5.1.0","@types/bootstrap":"^5.2.2","@types/brace-expansion":"^1.1.0","@types/braces":"^3.0.1","@types/brorand":"^1.0.30","@types/bs58":"^4.0.1","@types/bs58check":"^2.1.0","@types/bser":"^2.0.1","@types/buffer-from":"^1.1.0","@types/call-bind":"^1.0.1","@types/caniuse-lite":"^1.0.1","@types/capitalize":"^2.0.0","@types/chai":"^4.3.1","@types/check-error":"^1.0.0","@types/cipher-base":"^1.0.1","@types/co":"^4.6.3","@types/color-convert":"^2.0.0","@types/color-name":"^1.1.1","@types/concat-map":"0.0.1","@types/config":"^3.3.0","@types/convert-source-map":"^1.5.2","@types/core-js":"^2.5.5","@types/create-hash":"^1.2.2","@types/create-hmac":"^1.1.0","@types/cross-spawn":"^6.0.2","@types/crypto-js":"^4.1.1","@types/cryptr":"^4.0.1","@types/debug":"^4.1.7","@types/dedent":"^0.7.0","@types/deep-eql":"^4.0.0","@types/define-properties":"^1.1.3","@types/dir-glob":"^2.0.1","@types/doctrine":"0.0.5","@types/dotenv-defaults":"^2.0.1","@types/dotenv-webpack":"^7.0.3","@types/elliptic":"^6.4.14","@types/es-abstract":"^1.17.3","@types/es-to-primitive":"^1.2.4","@types/eslint":"^8.4.5","@types/eslint-scope":"^3.7.4","@types/eslint-utils":"^3.0.1","@types/esprima":"^4.0.3","@types/esquery":"^1.0.2","@types/estraverse":"^5.1.1","@types/esutils":"^2.0.0","@types/exit":"^0.1.31","@types/fast-levenshtein":"0.0.2","@types/fb-watchman":"^2.0.1","@types/file-entry-cache":"^5.0.2","@types/file-loader":"^5.0.1","@types/fill-range":"^7.0.0","@types/flat-cache":"^2.0.0","@types/function-bind":"^1.1.7","@types/functional-red-black-tree":"^1.0.1","@types/gensync":"^1.0.0","@types/get-func-name":"^2.0.0","@types/get-intrinsic":"^1.0.0","@types/glob":"^7.2.0","@types/glob-parent":"^5.1.1","@types/graceful-fs":"^4.1.5","@types/has":"^1.0.0","@types/has-symbols":"^1.0.0","@types/html-escaper":"^3.0.0","@types/html-webpack-plugin":"^3.2.6","@types/imurmurhash":"^0.1.1","@types/inherits":"0.0.30","@types/internal-slot":"^1.0.1","@types/ioredis":"^4.28.10","@types/is-arguments":"^1.0.0","@types/is-bigint":"^1.0.0","@types/is-boolean-object":"^1.1.0","@types/is-callable":"^1.1.0","@types/is-core-module":"^2.2.0","@types/is-date-object":"^1.0.2","@types/is-generator-function":"^1.0.1","@types/is-glob":"^4.0.2","@types/is-number":"^7.0.3","@types/is-regex":"^1.0.0","@types/is-string":"^1.0.0","@types/isexe":"^2.0.1","@types/istanbul-lib-coverage":"^2.0.4","@types/istanbul-lib-instrument":"^1.7.4","@types/istanbul-lib-report":"^3.0.0","@types/istanbul-lib-source-maps":"^4.0.1","@types/istanbul-reports":"^3.0.1","@types/jju":"^1.4.2","@types/js-yaml":"^4.0.5","@types/jsesc":"^3.0.1","@types/keccak":"^3.0.1","@types/lodash.debounce":"^4.0.7","@types/lodash.memoize":"^4.1.7","@types/lodash.merge":"^4.6.7","@types/merge-stream":"^1.1.2","@types/merge2":"^1.3.1","@types/micromatch":"^4.0.2","@types/minimalistic-assert":"^1.0.1","@types/minimatch":"^3.0.5","@types/ms":"^0.7.31","@types/natural-compare":"^1.4.1","@types/node-int64":"^0.4.29","@types/normalize-path":"^3.0.0","@types/npm":"^7.19.0","@types/object-inspect":"^1.8.1","@types/object-keys":"^1.0.1","@types/once":"^1.4.0","@types/parse-json":"^4.0.0","@types/path-is-absolute":"^1.0.0","@types/path-parse":"^1.0.19","@types/pathval":"^1.1.0","@types/pbkdf2":"^3.1.0","@types/picomatch":"^2.3.0","@types/prelude-ls":"^1.1.29","@types/prompts":"^2.0.14","@types/punycode":"^2.1.0","@types/randombytes":"^2.0.0","@types/react":"^18.0.17","@types/react-dom":"^18.0.6","@types/react-is":"^17.0.3","@types/readable-stream":"^2.3.14","@types/regenerate":"^1.4.1","@types/regenerator-runtime":"^0.13.1","@types/require-directory":"^2.1.2","@types/resolve":"^1.20.2","@types/rimraf":"^3.0.2","@types/ripemd160":"^2.0.0","@types/run-parallel":"^1.1.0","@types/sass-loader":"^8.0.3","@types/semver":"^7.3.10","@types/sequelize":"^4.28.14","@types/sha.js":"^2.4.0","@types/shebang-command":"^1.2.0","@types/shortid":"0.0.29","@types/signal-exit":"^3.0.1","@types/sinonjs__fake-timers":"^8.1.2","@types/source-map-support":"^0.5.4","@types/speakeasy":"^2.0.7","@types/sprintf-js":"^1.1.2","@types/stack-utils":"^2.0.1","@types/statuses":"^2.0.0","@types/strip-final-newline":"^3.0.0","@types/supports-color":"^8.1.1","@types/text-table":"^0.2.2","@types/tmpl":"^1.0.0","@types/to-regex-range":"^5.0.0","@types/traverse":"^0.6.32","@types/treeify":"^1.0.0","@types/type-check":"^0.3.27","@types/type-detect":"^4.0.1","@types/util-deprecate":"^1.0.0","@types/uuid":"^8.3.4","@types/varint":"^6.0.0","@types/webpack-bundle-analyzer":"^4.4.2","@types/which":"^2.0.1","@types/wif":"^2.0.2","@types/wrap-ansi":"^8.0.1","@types/write-file-atomic":"^4.0.0","@types/yallist":"^4.0.1","@types/yargs":"^17.0.10","@types/yargs-parser":"^21.0.0"}}
+[20:33:21.664] Loaded content of '/home/joaquin/.cache/typescript/4.7/package-lock.json'
+[20:33:21.673] Adding entry into typings cache: 'argparse' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/argparse/index.d.ts'
+[20:33:21.675] Adding entry into typings cache: 'assert' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/assert/index.d.ts'
+[20:33:21.677] Adding entry into typings cache: 'babel__code-frame' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/babel__code-frame/index.d.ts'
+[20:33:21.680] Adding entry into typings cache: 'babel__core' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/babel__core/index.d.ts'
+[20:33:21.682] Adding entry into typings cache: 'babel__generator' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/babel__generator/index.d.ts'
+[20:33:21.685] Adding entry into typings cache: 'babel__helper-plugin-utils' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/babel__helper-plugin-utils/index.d.ts'
+[20:33:21.687] Adding entry into typings cache: 'babel__helper-validator-identifier' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/babel__helper-validator-identifier/index.d.ts'
+[20:33:21.688] Adding entry into typings cache: 'babel__preset-env' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/babel__preset-env/index.d.ts'
+[20:33:21.691] Adding entry into typings cache: 'babel__template' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/babel__template/index.d.ts'
+[20:33:21.694] Adding entry into typings cache: 'babel__traverse' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/babel__traverse/index.d.ts'
+[20:33:21.696] Adding entry into typings cache: 'balanced-match' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/balanced-match/index.d.ts'
+[20:33:21.697] Adding entry into typings cache: 'belter' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/belter/index.d.ts'
+[20:33:21.698] Adding entry into typings cache: 'bindings' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/bindings/index.d.ts'
+[20:33:21.700] Adding entry into typings cache: 'bitcoin-computer-bitcore' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/bitcoin-computer-bitcore/index.d.ts'
+[20:33:21.701] Adding entry into typings cache: 'bloom-filter' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/bloom-filter/index.d.ts'
+[20:33:21.703] Adding entry into typings cache: 'bluebird' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/bluebird/index.d.ts'
+[20:33:21.705] Adding entry into typings cache: 'bn.js' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/bn.js/index.d.ts'
+[20:33:21.708] Adding entry into typings cache: 'bootstrap' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/bootstrap/index.d.ts'
+[20:33:21.709] Adding entry into typings cache: 'brace-expansion' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/brace-expansion/index.d.ts'
+[20:33:21.710] Adding entry into typings cache: 'braces' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/braces/index.d.ts'
+[20:33:21.711] Adding entry into typings cache: 'brorand' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/brorand/index.d.ts'
+[20:33:21.713] Adding entry into typings cache: 'bs58' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/bs58/index.d.ts'
+[20:33:21.714] Adding entry into typings cache: 'bs58check' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/bs58check/index.d.ts'
+[20:33:21.715] Adding entry into typings cache: 'bser' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/bser/index.d.ts'
+[20:33:21.717] Adding entry into typings cache: 'buffer-from' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/buffer-from/index.d.ts'
+[20:33:21.719] Adding entry into typings cache: 'call-bind' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/call-bind/index.d.ts'
+[20:33:21.723] Adding entry into typings cache: 'caniuse-lite' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/caniuse-lite/index.d.ts'
+[20:33:21.724] Adding entry into typings cache: 'capitalize' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/capitalize/index.d.ts'
+[20:33:21.726] Adding entry into typings cache: 'chai' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/chai/index.d.ts'
+[20:33:21.727] Adding entry into typings cache: 'check-error' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/check-error/index.d.ts'
+[20:33:21.728] Adding entry into typings cache: 'cipher-base' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/cipher-base/index.d.ts'
+[20:33:21.729] Adding entry into typings cache: 'co' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/co/index.d.ts'
+[20:33:21.732] Adding entry into typings cache: 'color-convert' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/color-convert/index.d.ts'
+[20:33:21.733] Adding entry into typings cache: 'color-name' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/color-name/index.d.ts'
+[20:33:21.734] Adding entry into typings cache: 'concat-map' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/concat-map/index.d.ts'
+[20:33:21.737] Adding entry into typings cache: 'config' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/config/index.d.ts'
+[20:33:21.738] Adding entry into typings cache: 'convert-source-map' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/convert-source-map/index.d.ts'
+[20:33:21.739] Adding entry into typings cache: 'core-js' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/core-js/index.d.ts'
+[20:33:21.741] Adding entry into typings cache: 'create-hash' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/create-hash/index.d.ts'
+[20:33:21.742] Adding entry into typings cache: 'create-hmac' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/create-hmac/index.d.ts'
+[20:33:21.744] Adding entry into typings cache: 'cross-spawn' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/cross-spawn/index.d.ts'
+[20:33:21.745] Adding entry into typings cache: 'crypto-js' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/crypto-js/index.d.ts'
+[20:33:21.748] Adding entry into typings cache: 'cryptr' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/cryptr/index.d.ts'
+[20:33:21.750] Adding entry into typings cache: 'debug' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/debug/index.d.ts'
+[20:33:21.751] Adding entry into typings cache: 'dedent' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/dedent/index.d.ts'
+[20:33:21.752] Adding entry into typings cache: 'deep-eql' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/deep-eql/index.d.ts'
+[20:33:21.753] Adding entry into typings cache: 'define-properties' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/define-properties/index.d.ts'
+[20:33:21.754] Adding entry into typings cache: 'dir-glob' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/dir-glob/index.d.ts'
+[20:33:21.755] Adding entry into typings cache: 'doctrine' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/doctrine/index.d.ts'
+[20:33:21.756] Adding entry into typings cache: 'dotenv-defaults' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/dotenv-defaults/index.d.ts'
+[20:33:21.757] Adding entry into typings cache: 'dotenv-webpack' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/dotenv-webpack/index.d.ts'
+[20:33:21.759] Adding entry into typings cache: 'elliptic' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/elliptic/index.d.ts'
+[20:33:21.760] Adding entry into typings cache: 'es-abstract' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/es-abstract/index.d.ts'
+[20:33:21.761] Adding entry into typings cache: 'es-to-primitive' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/es-to-primitive/index.d.ts'
+[20:33:21.762] Adding entry into typings cache: 'eslint' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/eslint/index.d.ts'
+[20:33:21.765] Adding entry into typings cache: 'eslint-scope' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/eslint-scope/index.d.ts'
+[20:33:21.767] Adding entry into typings cache: 'eslint-utils' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/eslint-utils/index.d.ts'
+[20:33:21.768] Adding entry into typings cache: 'esprima' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/esprima/index.d.ts'
+[20:33:21.769] Adding entry into typings cache: 'esquery' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/esquery/index.d.ts'
+[20:33:21.771] Adding entry into typings cache: 'estraverse' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/estraverse/index.d.ts'
+[20:33:21.772] Adding entry into typings cache: 'esutils' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/esutils/index.d.ts'
+[20:33:21.773] Adding entry into typings cache: 'exit' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/exit/index.d.ts'
+[20:33:21.775] Adding entry into typings cache: 'fast-levenshtein' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/fast-levenshtein/index.d.ts'
+[20:33:21.776] Adding entry into typings cache: 'fb-watchman' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/fb-watchman/index.d.ts'
+[20:33:21.778] Adding entry into typings cache: 'file-entry-cache' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/file-entry-cache/index.d.ts'
+[20:33:21.780] Adding entry into typings cache: 'file-loader' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/file-loader/index.d.ts'
+[20:33:21.781] Adding entry into typings cache: 'fill-range' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/fill-range/index.d.ts'
+[20:33:21.782] Adding entry into typings cache: 'flat-cache' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/flat-cache/index.d.ts'
+[20:33:21.783] Adding entry into typings cache: 'function-bind' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/function-bind/index.d.ts'
+[20:33:21.783] Adding entry into typings cache: 'functional-red-black-tree' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/functional-red-black-tree/index.d.ts'
+[20:33:21.784] Adding entry into typings cache: 'gensync' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/gensync/index.d.ts'
+[20:33:21.785] Adding entry into typings cache: 'get-func-name' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/get-func-name/index.d.ts'
+[20:33:21.787] Adding entry into typings cache: 'get-intrinsic' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/get-intrinsic/index.d.ts'
+[20:33:21.788] Adding entry into typings cache: 'glob' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/glob/index.d.ts'
+[20:33:21.788] Adding entry into typings cache: 'glob-parent' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/glob-parent/index.d.ts'
+[20:33:21.790] Adding entry into typings cache: 'graceful-fs' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/graceful-fs/index.d.ts'
+[20:33:21.792] Adding entry into typings cache: 'has' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/has/index.d.ts'
+[20:33:21.792] Adding entry into typings cache: 'has-symbols' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/has-symbols/index.d.ts'
+[20:33:21.793] Adding entry into typings cache: 'html-escaper' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/html-escaper/index.d.ts'
+[20:33:21.794] Adding entry into typings cache: 'html-webpack-plugin' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/html-webpack-plugin/index.d.ts'
+[20:33:21.795] Adding entry into typings cache: 'imurmurhash' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/imurmurhash/index.d.ts'
+[20:33:21.796] Adding entry into typings cache: 'inherits' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/inherits/index.d.ts'
+[20:33:21.797] Adding entry into typings cache: 'internal-slot' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/internal-slot/index.d.ts'
+[20:33:21.797] Adding entry into typings cache: 'ioredis' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/ioredis/index.d.ts'
+[20:33:21.798] Adding entry into typings cache: 'is-arguments' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/is-arguments/index.d.ts'
+[20:33:21.799] Adding entry into typings cache: 'is-bigint' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/is-bigint/index.d.ts'
+[20:33:21.799] Adding entry into typings cache: 'is-boolean-object' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/is-boolean-object/index.d.ts'
+[20:33:21.801] Adding entry into typings cache: 'is-callable' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/is-callable/index.d.ts'
+[20:33:21.801] Adding entry into typings cache: 'is-core-module' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/is-core-module/index.d.ts'
+[20:33:21.802] Adding entry into typings cache: 'is-date-object' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/is-date-object/index.d.ts'
+[20:33:21.803] Adding entry into typings cache: 'is-generator-function' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/is-generator-function/index.d.ts'
+[20:33:21.803] Adding entry into typings cache: 'is-glob' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/is-glob/index.d.ts'
+[20:33:21.804] Adding entry into typings cache: 'is-number' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/is-number/index.d.ts'
+[20:33:21.805] Adding entry into typings cache: 'is-regex' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/is-regex/index.d.ts'
+[20:33:21.806] Adding entry into typings cache: 'is-string' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/is-string/index.d.ts'
+[20:33:21.806] Adding entry into typings cache: 'isexe' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/isexe/index.d.ts'
+[20:33:21.807] Adding entry into typings cache: 'istanbul-lib-coverage' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/istanbul-lib-coverage/index.d.ts'
+[20:33:21.808] Adding entry into typings cache: 'istanbul-lib-instrument' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/istanbul-lib-instrument/index.d.ts'
+[20:33:21.809] Adding entry into typings cache: 'istanbul-lib-report' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/istanbul-lib-report/index.d.ts'
+[20:33:21.809] Adding entry into typings cache: 'istanbul-lib-source-maps' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/istanbul-lib-source-maps/index.d.ts'
+[20:33:21.810] Adding entry into typings cache: 'istanbul-reports' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/istanbul-reports/index.d.ts'
+[20:33:21.811] Adding entry into typings cache: 'jju' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/jju/index.d.ts'
+[20:33:21.812] Adding entry into typings cache: 'js-yaml' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/js-yaml/index.d.ts'
+[20:33:21.812] Adding entry into typings cache: 'jsesc' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/jsesc/index.d.ts'
+[20:33:21.813] Adding entry into typings cache: 'keccak' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/keccak/index.d.ts'
+[20:33:21.814] Adding entry into typings cache: 'lodash.debounce' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/lodash.debounce/index.d.ts'
+[20:33:21.814] Adding entry into typings cache: 'lodash.memoize' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/lodash.memoize/index.d.ts'
+[20:33:21.815] Adding entry into typings cache: 'lodash.merge' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/lodash.merge/index.d.ts'
+[20:33:21.817] Adding entry into typings cache: 'merge-stream' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/merge-stream/index.d.ts'
+[20:33:21.818] Adding entry into typings cache: 'merge2' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/merge2/index.d.ts'
+[20:33:21.818] Adding entry into typings cache: 'micromatch' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/micromatch/index.d.ts'
+[20:33:21.819] Adding entry into typings cache: 'minimalistic-assert' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/minimalistic-assert/index.d.ts'
+[20:33:21.820] Adding entry into typings cache: 'minimatch' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/minimatch/index.d.ts'
+[20:33:21.821] Adding entry into typings cache: 'ms' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/ms/index.d.ts'
+[20:33:21.822] Adding entry into typings cache: 'natural-compare' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/natural-compare/index.d.ts'
+[20:33:21.823] Adding entry into typings cache: 'node-int64' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/node-int64/index.d.ts'
+[20:33:21.824] Adding entry into typings cache: 'normalize-path' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/normalize-path/index.d.ts'
+[20:33:21.825] Adding entry into typings cache: 'npm' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/npm/index.d.ts'
+[20:33:21.826] Adding entry into typings cache: 'object-inspect' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/object-inspect/index.d.ts'
+[20:33:21.827] Adding entry into typings cache: 'object-keys' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/object-keys/index.d.ts'
+[20:33:21.827] Adding entry into typings cache: 'once' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/once/index.d.ts'
+[20:33:21.828] Adding entry into typings cache: 'parse-json' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/parse-json/index.d.ts'
+[20:33:21.829] Adding entry into typings cache: 'path-is-absolute' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/path-is-absolute/index.d.ts'
+[20:33:21.829] Adding entry into typings cache: 'path-parse' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/path-parse/index.d.ts'
+[20:33:21.830] Adding entry into typings cache: 'pathval' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/pathval/index.d.ts'
+[20:33:21.831] Adding entry into typings cache: 'pbkdf2' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/pbkdf2/index.d.ts'
+[20:33:21.834] Adding entry into typings cache: 'picomatch' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/picomatch/index.d.ts'
+[20:33:21.835] Adding entry into typings cache: 'prelude-ls' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/prelude-ls/index.d.ts'
+[20:33:21.836] Adding entry into typings cache: 'prompts' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/prompts/index.d.ts'
+[20:33:21.838] Adding entry into typings cache: 'punycode' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/punycode/index.d.ts'
+[20:33:21.840] Adding entry into typings cache: 'randombytes' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/randombytes/index.d.ts'
+[20:33:21.845] Adding entry into typings cache: 'react' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/react/index.d.ts'
+[20:33:21.848] Adding entry into typings cache: 'react-dom' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/react-dom/index.d.ts'
+[20:33:21.849] Adding entry into typings cache: 'react-is' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/react-is/index.d.ts'
+[20:33:21.850] Adding entry into typings cache: 'readable-stream' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/readable-stream/index.d.ts'
+[20:33:21.851] Adding entry into typings cache: 'regenerate' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/regenerate/index.d.ts'
+[20:33:21.851] Adding entry into typings cache: 'regenerator-runtime' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/regenerator-runtime/index.d.ts'
+[20:33:21.852] Adding entry into typings cache: 'require-directory' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/require-directory/index.d.ts'
+[20:33:21.853] Adding entry into typings cache: 'resolve' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/resolve/index.d.ts'
+[20:33:21.854] Adding entry into typings cache: 'rimraf' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/rimraf/index.d.ts'
+[20:33:21.856] Adding entry into typings cache: 'ripemd160' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/ripemd160/index.d.ts'
+[20:33:21.856] Adding entry into typings cache: 'run-parallel' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/run-parallel/index.d.ts'
+[20:33:21.857] Adding entry into typings cache: 'sass-loader' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/sass-loader/index.d.ts'
+[20:33:21.858] Adding entry into typings cache: 'semver' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/semver/index.d.ts'
+[20:33:21.859] Adding entry into typings cache: 'sequelize' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/sequelize/index.d.ts'
+[20:33:21.859] Adding entry into typings cache: 'sha.js' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/sha.js/index.d.ts'
+[20:33:21.860] Adding entry into typings cache: 'shebang-command' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/shebang-command/index.d.ts'
+[20:33:21.861] Adding entry into typings cache: 'shortid' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/shortid/index.d.ts'
+[20:33:21.861] Adding entry into typings cache: 'signal-exit' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/signal-exit/index.d.ts'
+[20:33:21.862] Adding entry into typings cache: 'sinonjs__fake-timers' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/sinonjs__fake-timers/index.d.ts'
+[20:33:21.863] Adding entry into typings cache: 'source-map-support' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/source-map-support/index.d.ts'
+[20:33:21.864] Adding entry into typings cache: 'speakeasy' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/speakeasy/index.d.ts'
+[20:33:21.865] Adding entry into typings cache: 'sprintf-js' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/sprintf-js/index.d.ts'
+[20:33:21.866] Adding entry into typings cache: 'stack-utils' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/stack-utils/index.d.ts'
+[20:33:21.867] Adding entry into typings cache: 'statuses' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/statuses/index.d.ts'
+[20:33:21.867] Adding entry into typings cache: 'strip-final-newline' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/strip-final-newline/index.d.ts'
+[20:33:21.868] Adding entry into typings cache: 'supports-color' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/supports-color/index.d.ts'
+[20:33:21.869] Adding entry into typings cache: 'text-table' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/text-table/index.d.ts'
+[20:33:21.870] Adding entry into typings cache: 'tmpl' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/tmpl/index.d.ts'
+[20:33:21.871] Adding entry into typings cache: 'to-regex-range' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/to-regex-range/index.d.ts'
+[20:33:21.872] Adding entry into typings cache: 'traverse' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/traverse/index.d.ts'
+[20:33:21.872] Adding entry into typings cache: 'treeify' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/treeify/index.d.ts'
+[20:33:21.873] Adding entry into typings cache: 'type-check' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/type-check/index.d.ts'
+[20:33:21.874] Adding entry into typings cache: 'type-detect' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/type-detect/index.d.ts'
+[20:33:21.875] Adding entry into typings cache: 'util-deprecate' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/util-deprecate/index.d.ts'
+[20:33:21.876] Adding entry into typings cache: 'uuid' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/uuid/index.d.ts'
+[20:33:21.878] Adding entry into typings cache: 'varint' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/varint/index.d.ts'
+[20:33:21.879] Adding entry into typings cache: 'webpack-bundle-analyzer' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/webpack-bundle-analyzer/index.d.ts'
+[20:33:21.880] Adding entry into typings cache: 'which' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/which/index.d.ts'
+[20:33:21.881] Adding entry into typings cache: 'wif' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/wif/index.d.ts'
+[20:33:21.882] Adding entry into typings cache: 'wrap-ansi' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/wrap-ansi/index.d.ts'
+[20:33:21.884] Adding entry into typings cache: 'write-file-atomic' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/write-file-atomic/index.d.ts'
+[20:33:21.884] Adding entry into typings cache: 'yallist' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/yallist/index.d.ts'
+[20:33:21.886] Adding entry into typings cache: 'yargs' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/yargs/index.d.ts'
+[20:33:21.887] Adding entry into typings cache: 'yargs-parser' => '/home/joaquin/.cache/typescript/4.7/node_modules/@types/yargs-parser/index.d.ts'
+[20:33:21.887] Finished processing cache location '/home/joaquin/.cache/typescript/4.7'
+[20:33:21.887] Process id: 1590463
+[20:33:21.887] NPM location: /home/joaquin/.nvm/versions/node/v14.16.1/bin/npm (explicit '--npmLocation' not  provided)
+[20:33:21.887] validateDefaultNpmLocation: false
+[20:33:21.887] Npm config file: /home/joaquin/.cache/typescript/4.7/package.json
+[20:33:21.887] Updating types-registry npm package...
+[20:33:21.887] Exec: /home/joaquin/.nvm/versions/node/v14.16.1/bin/npm install --ignore-scripts types-registry@latest
+[20:33:23.830]     Succeeded. stdout:
+    + types-registry@0.1.607
+    updated 1 package and audited 292 packages in 1.529s
+
+11 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+[20:33:23.830] Updated types-registry npm package
+[20:33:24.828] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es5.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2016.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.dom.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/home/joaquin/personal/testwmtree/node_modules/merkletreejs/dist/MerkleTree.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["buffer-reverse"],"projectRootPath":"/home/joaquin/personal/testwmtree/node_modules/merkletreejs/dist","kind":"discover"}
+[20:33:24.835] Loaded safelist from types map file '/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/typesMap.json'
+[20:33:24.836] Explicitly included types: []
+[20:33:24.836] Inferred typings from unresolved imports: ["buffer-reverse"]
+[20:33:24.836] Result: {"cachedTypingPaths":[],"newTypingNames":["buffer-reverse"],"filesToWatch":["/home/joaquin/personal/testwmtree/node_modules/merkletreejs/dist/bower_components","/home/joaquin/personal/testwmtree/node_modules/merkletreejs/dist/node_modules"]}
+[20:33:24.837] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["buffer-reverse"],"filesToWatch":["/home/joaquin/personal/testwmtree/node_modules/merkletreejs/dist/bower_components","/home/joaquin/personal/testwmtree/node_modules/merkletreejs/dist/node_modules"]}
+[20:33:24.837] DirectoryWatcher:: Added:: WatchInfo: /home/joaquin/personal/testwmtree/node_modules/merkletreejs/dist/bower_components
+[20:33:24.837] DirectoryWatcher:: Added:: WatchInfo: /home/joaquin/personal/testwmtree/node_modules/merkletreejs/dist/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[20:33:24.839] Elapsed:: 1.5797920227050781ms DirectoryWatcher:: Added:: WatchInfo: /home/joaquin/personal/testwmtree/node_modules/merkletreejs/dist/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[20:33:24.839] DirectoryWatcher:: Added:: WatchInfo: /home/joaquin/personal/testwmtree/node_modules/merkletreejs/dist/node_modules
+[20:33:24.839] DirectoryWatcher:: Added:: WatchInfo: /home/joaquin/personal/testwmtree/node_modules/merkletreejs/dist/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[20:33:24.839] Elapsed:: 0.11558699607849121ms DirectoryWatcher:: Added:: WatchInfo: /home/joaquin/personal/testwmtree/node_modules/merkletreejs/dist/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[20:33:24.839] Installing typings ["buffer-reverse"]
+[20:33:24.839] 'buffer-reverse':: Entry for package 'buffer-reverse' does not exist in local types registry - skipping...
+[20:33:24.839] All typings are known to be missing or invalid - no need to install more typings
+[20:33:24.840] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["buffer-reverse"],"kind":"action::set"}
+[20:33:24.840] Response has been sent.
+[20:33:25.142] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es5.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2016.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.dom.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/home/joaquin/.nvm/versions/node/v14.16.1/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/home/joaquin/personal/testwmtree/index.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/joaquin/personal/testwmtree","kind":"discover"}
+[20:33:25.142] Explicitly included types: []
+[20:33:25.142] Typing names in '/home/joaquin/personal/testwmtree/package.json' dependencies: ["ethers-merkletree","merkletreejs"]
+[20:33:25.142] Searching for typing names in /home/joaquin/personal/testwmtree/node_modules; all files: ["/home/joaquin/personal/testwmtree/node_modules/ethers-merkletree/package.json","/home/joaquin/personal/testwmtree/node_modules/merkletreejs/package.json"]
+[20:33:25.144]     Package 'merkletreejs' provides its own types.
+[20:33:25.144]     Found package names: ["ethers-merkletree"]
+[20:33:25.144] Inferred typings from unresolved imports: []
+[20:33:25.144] Result: {"cachedTypingPaths":["/home/joaquin/personal/testwmtree/node_modules/merkletreejs/dist/index.d.ts"],"newTypingNames":["ethers-merkletree"],"filesToWatch":["/home/joaquin/personal/testwmtree/bower_components","/home/joaquin/personal/testwmtree/package.json","/home/joaquin/personal/testwmtree/node_modules"]}
+[20:33:25.144] Finished typings discovery: {"cachedTypingPaths":["/home/joaquin/personal/testwmtree/node_modules/merkletreejs/dist/index.d.ts"],"newTypingNames":["ethers-merkletree"],"filesToWatch":["/home/joaquin/personal/testwmtree/bower_components","/home/joaquin/personal/testwmtree/package.json","/home/joaquin/personal/testwmtree/node_modules"]}
+[20:33:25.144] DirectoryWatcher:: Added:: WatchInfo: /home/joaquin/personal/testwmtree/bower_components
+[20:33:25.144] DirectoryWatcher:: Added:: WatchInfo: /home/joaquin/personal/testwmtree/bower_components 1 undefined Project: /dev/null/inferredProject2* watcher already invoked: false
+[20:33:25.144] Elapsed:: 0.13148903846740723ms DirectoryWatcher:: Added:: WatchInfo: /home/joaquin/personal/testwmtree/bower_components 1 undefined Project: /dev/null/inferredProject2* watcher already invoked: false
+[20:33:25.144] FileWatcher:: Added:: WatchInfo: /home/joaquin/personal/testwmtree/package.json
+[20:33:25.145] FileWatcher:: Added:: WatchInfo: /home/joaquin/personal/testwmtree/package.json 2000 undefined Project: /dev/null/inferredProject2* watcher already invoked: false
+[20:33:25.145] DirectoryWatcher:: Added:: WatchInfo: /home/joaquin/personal/testwmtree/node_modules
+[20:33:25.145] DirectoryWatcher:: Added:: WatchInfo: /home/joaquin/personal/testwmtree/node_modules 1 undefined Project: /dev/null/inferredProject2* watcher already invoked: false
+[20:33:25.171] Elapsed:: 26.009180068969727ms DirectoryWatcher:: Added:: WatchInfo: /home/joaquin/personal/testwmtree/node_modules 1 undefined Project: /dev/null/inferredProject2* watcher already invoked: false
+[20:33:25.171] Installing typings ["ethers-merkletree"]
+[20:33:25.171] 'ethers-merkletree':: Entry for package 'ethers-merkletree' does not exist in local types registry - skipping...
+[20:33:25.171] All typings are known to be missing or invalid - no need to install more typings
+[20:33:25.171] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/home/joaquin/personal/testwmtree/node_modules/merkletreejs/dist/index.d.ts"],"unresolvedImports":[],"kind":"action::set"}
+[20:33:25.171] Response has been sent.

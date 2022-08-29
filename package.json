@@ -1,0 +1,19 @@
+{
+  "name": "testwmtree",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "ethers-merkletree": "^1.0.16"
+  },
+  "devDependencies": {
+    "merkletreejs": "^0.2.32"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
